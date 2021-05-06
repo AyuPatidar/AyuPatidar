@@ -2,7 +2,11 @@
 - 👀 I’m interested in Movies and Games
 - 🌱 I’m currently learning Flutter App Development
 - 📫 How to reach me : Here you go 👇 
-    - Email ID : ayushpatidar755@gmail.com
+   - Email ID : ayushpatidar755@gmail.com
+- 📝 Languages learned : 
+   - C/C++
+   - HTML
+   - CSS
 
 <!---
 AyuPatidar/AyuPatidar is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
